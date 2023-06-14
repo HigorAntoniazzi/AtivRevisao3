@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        GameTela form = new GameTela();
+        form.setContentPane(form.panelGame);
+        form.setVisible(true);
+        form.setSize(500,500);
     }
 }
