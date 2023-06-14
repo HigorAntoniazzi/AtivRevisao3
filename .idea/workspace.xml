@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff784f7-025f-44d1-9432-5582d0925d82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameTela.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameTela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="0ff784f7-025f-44d1-9432-5582d0925d82" name="Changes" comment="Main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameTela.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameTela.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameTela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameTela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/JAVA/Atividade4Revisao/Atividade4Revisao",
+    "last_opened_file_path": "C:/JAVA/Game",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,10 +58,23 @@
       <workItem from="1686671367459" duration="2069000" />
       <workItem from="1686699436877" duration="15000" />
       <workItem from="1686764841089" duration="3080000" />
+      <workItem from="1686773403003" duration="310000" />
     </task>
+    <task id="LOCAL-00001" summary="Main">
+      <created>1686773710619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686773710619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main" />
   </component>
 </project>
